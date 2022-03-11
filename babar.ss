@@ -34,3 +34,4 @@ done
 }
 dir
 cat *.log > final.log 2>/dev/null
+
